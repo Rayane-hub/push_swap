@@ -63,6 +63,5 @@ pa
 ---
 
 ## 🖼️ Aperçu visuel
-
-![push_swap_visualizer](https://user-images.githubusercontent.com/your_image_link_here.png)
+![pushSwapVisualizer](https://github.com/user-attachments/assets/428f9e10-7821-41eb-aac9-6eab892c684d)
 
