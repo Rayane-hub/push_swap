@@ -63,5 +63,5 @@ pa
 ---
 
 ## 🖼️ Aperçu visuel
-![pushSwapVisualizer](https://github.com/user-attachments/assets/428f9e10-7821-41eb-aac9-6eab892c684d)
+
 
